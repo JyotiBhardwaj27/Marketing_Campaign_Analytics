@@ -37,17 +37,20 @@ The objective of this project is to:
 ## 📊 Dashboard Pages
 
 - **Executive Overview**
+  
 - Total Customers
 - Campaign Response Rate
 - Average Spend
 - High Spender Percentage
 
 - **Campaign Drivers**
+  
 - Response Rate by Income Band
 - Web Engagement vs Response
 - Purchase Channel Preferences
 
 - **Customer Exploration**
+  
 - Product Category Spend
 - Family vs Non-Family Response
 - Scatter and Map-based insights
